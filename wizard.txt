@@ -1,0 +1,12 @@
+name="MSXCloud version 1.0 (15/7/18)"
+url="https://dl.dropboxusercontent.com/s/vz26mxnd1udng5f/MSXcloud.zip" 
+img="http://bit.ly/2Z5Uxut"
+fanart="http://miservidor.com/fondo.jpg"
+description="MSXCloud"
+
+name="----- [COLOR red]LIMPIAR KODI PARA ACTUALIZAR[/COLOR] ------"
+url="http://bit.ly/2DXbHAf" 
+img="http://bit.ly/2EPeAo3"
+fanart="http://bit.ly/2DX4eBd"
+description="Usa el Freshtart para actualizar la Build."
+
